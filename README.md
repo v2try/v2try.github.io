@@ -1,4 +1,4 @@
-# [V2Snk - 万维网](https:/v2snk.top)
+# [V2Snk - 万维网](https://v2snk.top)
 
 ### 波罗歌小站的默认页面
 >HTML5 | Sass | jQuery | Hammer.js
