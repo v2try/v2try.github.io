@@ -1,18 +1,14 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# [V2Snk - 万维网](https:/v2snk.top)
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+### 波罗歌小站的默认页面
+>HTML5 | Sass | jQuery | Hammer.js
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+一个普通简洁的默认页面
+<br>
+<br>
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+> 项目来源
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+<a class="github-badge" target="_blank" href="https://github.com/BuckyMaler/global" style="margin-inline:5px"><img src="https://img.shields.io/badge/Theme-Global-blue?style=flat"></a>
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
 
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
